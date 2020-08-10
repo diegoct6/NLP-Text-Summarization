@@ -1,5 +1,3 @@
-# NLP-Text-Summarization
-
 # Building a Text Summarizer Web Application: Read Smarter, Learn Faster
 Based on a survey we conducted on 20 former IE MBA studetnts, we found out that on average, they were assigned 120 cases to read. Out of those, they read only around 58%. And 80% stated that the reason of not reading them was that they were too long or time consuming.
 
